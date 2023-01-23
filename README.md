@@ -1,2 +1,2 @@
 # Veterinary
-Veterinary registering and querying system
+Registering system
