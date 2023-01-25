@@ -2,7 +2,7 @@
 Sistema de registro y consulta de una clínica veterinaria.
 
 # Techs a usar
-C# XAML y Visual Basic como IDE
+![alt text]([http://url/to/img.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.stepsoftware.com%2Fservices%2Fdot-net&psig=AOvVaw1D_71Pl3abqFqgsZzHVcPe&ust=1674755121710000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCNiFysij4_wCFQAAAAAdAAAAABAD)) XAML y Visual Basic como IDE
 
 # Profe:
 Es muy breve la descripción del proyecto, tienes que mostrar sus características y tu objetivo.
