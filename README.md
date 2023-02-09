@@ -7,8 +7,3 @@ Sistema de registro y consulta de una clínica veterinaria. Se podrá insertar u
 ## Más información en
 ### <a href="https://asylum1.odoo.com/@/">Asylum</a>
 
-
-# Profe:
-Es muy breve la descripción del proyecto, tienes que mostrar sus características y tu objetivo.
-
-
